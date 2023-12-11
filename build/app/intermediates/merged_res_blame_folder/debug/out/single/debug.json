@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "/Users/ekanth/Desktop/notes/iGSE/build/app/intermediates/merged_res/debug/mipmap-xhdpi_igse_icon.png.flat",
+        "source": "/Users/ekanth/Desktop/notes/iGSE/android/app/src/main/res/mipmap-xhdpi/igse_icon.png"
+    },
+    {
+        "merged": "/Users/ekanth/Desktop/notes/iGSE/build/app/intermediates/merged_res/debug/mipmap-mdpi_igse_icon.png.flat",
+        "source": "/Users/ekanth/Desktop/notes/iGSE/android/app/src/main/res/mipmap-mdpi/igse_icon.png"
+    },
+    {
+        "merged": "/Users/ekanth/Desktop/notes/iGSE/build/app/intermediates/merged_res/debug/mipmap-mdpi_igse_icon_adaptive_fore.png.flat",
+        "source": "/Users/ekanth/Desktop/notes/iGSE/android/app/src/main/res/mipmap-mdpi/igse_icon_adaptive_fore.png"
+    },
+    {
+        "merged": "/Users/ekanth/Desktop/notes/iGSE/build/app/intermediates/merged_res/debug/mipmap-xxhdpi_igse_icon.png.flat",
+        "source": "/Users/ekanth/Desktop/notes/iGSE/android/app/src/main/res/mipmap-xxhdpi/igse_icon.png"
+    },
+    {
+        "merged": "/Users/ekanth/Desktop/notes/iGSE/build/app/intermediates/merged_res/debug/drawable-v21_launch_background.xml.flat",
+        "source": "/Users/ekanth/Desktop/notes/iGSE/android/app/src/main/res/drawable-v21/launch_background.xml"
+    },
+    {
+        "merged": "/Users/ekanth/Desktop/notes/iGSE/build/app/intermediates/merged_res/debug/mipmap-hdpi_igse_icon_adaptive_back.png.flat",
+        "source": "/Users/ekanth/Desktop/notes/iGSE/android/app/src/main/res/mipmap-hdpi/igse_icon_adaptive_back.png"
+    },
+    {
+        "merged": "/Users/ekanth/Desktop/notes/iGSE/build/app/intermediates/merged_res/debug/mipmap-xxhdpi_igse_icon_adaptive_back.png.flat",
+        "source": "/Users/ekanth/Desktop/notes/iGSE/android/app/src/main/res/mipmap-xxhdpi/igse_icon_adaptive_back.png"
+    },
+    {
+        "merged": "/Users/ekanth/Desktop/notes/iGSE/build/app/intermediates/merged_res/debug/mipmap-xhdpi_igse_icon_adaptive_fore.png.flat",
+        "source": "/Users/ekanth/Desktop/notes/iGSE/android/app/src/main/res/mipmap-xhdpi/igse_icon_adaptive_fore.png"
+    },
+    {
+        "merged": "/Users/ekanth/Desktop/notes/iGSE/build/app/intermediates/merged_res/debug/mipmap-mdpi_igse_icon_adaptive_back.png.flat",
+        "source": "/Users/ekanth/Desktop/notes/iGSE/android/app/src/main/res/mipmap-mdpi/igse_icon_adaptive_back.png"
+    },
+    {
+        "merged": "/Users/ekanth/Desktop/notes/iGSE/build/app/intermediates/merged_res/debug/mipmap-xhdpi_igse_icon_adaptive_back.png.flat",
+        "source": "/Users/ekanth/Desktop/notes/iGSE/android/app/src/main/res/mipmap-xhdpi/igse_icon_adaptive_back.png"
+    },
+    {
+        "merged": "/Users/ekanth/Desktop/notes/iGSE/build/app/intermediates/merged_res/debug/mipmap-xxxhdpi_igse_icon.png.flat",
+        "source": "/Users/ekanth/Desktop/notes/iGSE/android/app/src/main/res/mipmap-xxxhdpi/igse_icon.png"
+    },
+    {
+        "merged": "/Users/ekanth/Desktop/notes/iGSE/build/app/intermediates/merged_res/debug/mipmap-xxhdpi_igse_icon_adaptive_fore.png.flat",
+        "source": "/Users/ekanth/Desktop/notes/iGSE/android/app/src/main/res/mipmap-xxhdpi/igse_icon_adaptive_fore.png"
+    },
+    {
+        "merged": "/Users/ekanth/Desktop/notes/iGSE/build/app/intermediates/merged_res/debug/mipmap-hdpi_igse_icon.png.flat",
+        "source": "/Users/ekanth/Desktop/notes/iGSE/android/app/src/main/res/mipmap-hdpi/igse_icon.png"
+    },
+    {
+        "merged": "/Users/ekanth/Desktop/notes/iGSE/build/app/intermediates/merged_res/debug/mipmap-xxxhdpi_igse_icon_adaptive_fore.png.flat",
+        "source": "/Users/ekanth/Desktop/notes/iGSE/android/app/src/main/res/mipmap-xxxhdpi/igse_icon_adaptive_fore.png"
+    },
+    {
+        "merged": "/Users/ekanth/Desktop/notes/iGSE/build/app/intermediates/merged_res/debug/mipmap-anydpi-v26_igse_icon.xml.flat",
+        "source": "/Users/ekanth/Desktop/notes/iGSE/android/app/src/main/res/mipmap-anydpi-v26/igse_icon.xml"
+    },
+    {
+        "merged": "/Users/ekanth/Desktop/notes/iGSE/build/app/intermediates/merged_res/debug/mipmap-xxxhdpi_igse_icon_adaptive_back.png.flat",
+        "source": "/Users/ekanth/Desktop/notes/iGSE/android/app/src/main/res/mipmap-xxxhdpi/igse_icon_adaptive_back.png"
+    },
+    {
+        "merged": "/Users/ekanth/Desktop/notes/iGSE/build/app/intermediates/merged_res/debug/mipmap-hdpi_igse_icon_adaptive_fore.png.flat",
+        "source": "/Users/ekanth/Desktop/notes/iGSE/android/app/src/main/res/mipmap-hdpi/igse_icon_adaptive_fore.png"
+    }
+]

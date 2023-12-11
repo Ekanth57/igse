@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/Users/ekanth/Desktop/notes/iGSE/build/qr_code_scanner/intermediates/merged_res/release/interpolator/btn_checkbox_checked_mtrl_animation_interpolator_0.xml",
+        "source": "/Users/ekanth/.gradle/caches/transforms-3/4d1c62d544bde8299c1f2b2a90884a25/transformed/appcompat-1.4.2/res/interpolator/btn_checkbox_checked_mtrl_animation_interpolator_0.xml"
+    },
+    {
+        "merged": "/Users/ekanth/Desktop/notes/iGSE/build/qr_code_scanner/intermediates/merged_res/release/interpolator/btn_checkbox_checked_mtrl_animation_interpolator_1.xml",
+        "source": "/Users/ekanth/.gradle/caches/transforms-3/4d1c62d544bde8299c1f2b2a90884a25/transformed/appcompat-1.4.2/res/interpolator/btn_checkbox_checked_mtrl_animation_interpolator_1.xml"
+    },
+    {
+        "merged": "/Users/ekanth/Desktop/notes/iGSE/build/qr_code_scanner/intermediates/merged_res/release/interpolator/btn_checkbox_unchecked_mtrl_animation_interpolator_0.xml",
+        "source": "/Users/ekanth/.gradle/caches/transforms-3/4d1c62d544bde8299c1f2b2a90884a25/transformed/appcompat-1.4.2/res/interpolator/btn_checkbox_unchecked_mtrl_animation_interpolator_0.xml"
+    },
+    {
+        "merged": "/Users/ekanth/Desktop/notes/iGSE/build/qr_code_scanner/intermediates/merged_res/release/interpolator/btn_radio_to_on_mtrl_animation_interpolator_0.xml",
+        "source": "/Users/ekanth/.gradle/caches/transforms-3/4d1c62d544bde8299c1f2b2a90884a25/transformed/appcompat-1.4.2/res/interpolator/btn_radio_to_on_mtrl_animation_interpolator_0.xml"
+    },
+    {
+        "merged": "/Users/ekanth/Desktop/notes/iGSE/build/qr_code_scanner/intermediates/merged_res/release/interpolator/btn_radio_to_off_mtrl_animation_interpolator_0.xml",
+        "source": "/Users/ekanth/.gradle/caches/transforms-3/4d1c62d544bde8299c1f2b2a90884a25/transformed/appcompat-1.4.2/res/interpolator/btn_radio_to_off_mtrl_animation_interpolator_0.xml"
+    },
+    {
+        "merged": "/Users/ekanth/Desktop/notes/iGSE/build/qr_code_scanner/intermediates/merged_res/release/interpolator/btn_checkbox_unchecked_mtrl_animation_interpolator_1.xml",
+        "source": "/Users/ekanth/.gradle/caches/transforms-3/4d1c62d544bde8299c1f2b2a90884a25/transformed/appcompat-1.4.2/res/interpolator/btn_checkbox_unchecked_mtrl_animation_interpolator_1.xml"
+    },
+    {
+        "merged": "/Users/ekanth/Desktop/notes/iGSE/build/qr_code_scanner/intermediates/merged_res/release/interpolator/fast_out_slow_in.xml",
+        "source": "/Users/ekanth/.gradle/caches/transforms-3/4d1c62d544bde8299c1f2b2a90884a25/transformed/appcompat-1.4.2/res/interpolator/fast_out_slow_in.xml"
+    }
+]
